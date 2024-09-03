@@ -7,6 +7,9 @@ the classic [**DVH Video**](https://www.youtube.com/watch?v=5mGuCdlCcNM) but in 
 **How Do i use this?**
 thats the fun part, **you dont** well almost like you can interact with the image like drag it and drop it and watch it 
 
+**How do i download this?**
+Download The html where the code is or where it says html 👆
+
 ### Hope yall enjoy 😄
 
 > _Postdata: I used Chatgtp ¯ \_(ツ)_/¯_
